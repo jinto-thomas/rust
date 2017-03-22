@@ -1,0 +1,7 @@
+[package]
+name = "randomnumber"
+version = "0.1.0"
+authors = ["jinto_thomas <jintothomas@marketsimplified.com>"]
+
+[dependencies]
+rand = "*"
